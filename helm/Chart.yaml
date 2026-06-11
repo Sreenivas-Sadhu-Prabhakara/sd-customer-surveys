@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-customer-surveys
+description: "BIAN Service Domain: Customer Surveys (Operate pattern, Sales and Service)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - operate
+annotations:
+  bian/business-area: "Sales and Service"
+  bian/business-domain: "Marketing"
+  bian/asset-type: "Customer Survey"
+  bian/control-record: "Customer Survey Operating Session"
